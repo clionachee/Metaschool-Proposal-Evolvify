@@ -6,7 +6,7 @@
 ### **Project Title**
 
 Evolvify
-//Evolvify=Evolve+Amplify
+(//Evolvify=Evolve+Amplify)
 
 ### **What are you planning to build?**
 
