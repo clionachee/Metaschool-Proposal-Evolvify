@@ -1,7 +1,7 @@
 
 ## **_A Note to Builders_**
 
-_As you start working on your project proposals, remember that following these guidelines is mandatory, not optional. Ignoring them means your proposal will be automatically rejected. These rules are here to make sure our work is innovative, ethical, and legal. Please pay close attention to each point:_
+_As I start working on your project proposals, remember that following these guidelines is mandatory, not optional. Ignoring them means your proposal will be automatically rejected. These rules are here to make sure our work is innovative, ethical, and legal. Please pay close attention to each point:_
 
 1. **Originality**: Our project must be entirely our own creation, showcasing our unique ideas and insights.
 2. **Follow the Rules**: Stick to the given submission format and guidelines strictly. Any deviation will lead to rejection.
@@ -13,28 +13,60 @@ _As you start working on your project proposals, remember that following these g
 8. **Legal Compliance**: Abide by all relevant laws, copyright rules, and intellectual property rights. Non-compliance is not an option.
 
 
-_Please ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
+_I ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
 
 ---
-# Proposal Template
+# Proposal
 
 ## **Project Details Section**
 
 ### **Project Title**
 
-Provide the title of your project.
-
-**Sample:** CryptoTracker
+Evolvify
+//Evolvify=Evolve+Amplify
 
 ### **What are you planning to build?**
 
-Provide a brief overview of your project here.
-
-**Sample:** We're building CryptoTracker, a decentralized platform to track and manage cryptocurrency portfolios.
+Create a metaverse-related project focusing on 'Evolve + Amplify' human potential that is integrated with blockchain.
 
 ### **Project Breakdown**
 
-Provide a comprehensive explanation of your project. This should include a detailed description of what your project is all about, its main objectives, and its intended impact or benefits. Also, describe how your project works. This can include an overview of the processes or mechanisms involved, the technologies or methods used, and how these contribute to achieving the project's goals.
+**Project Overview:**
+Evolvify serves as a metaverse platform with a focus on human evolution. The platform incorporates evolving avatars, purpose-driven spaces, and blockchain integration to offer a distinct metaverse encounter.
+
+**Main Objectives:**
+1. **Personal Evolution:** Evolvify aims to provide users with a space for personal growth within the metaverse environment.
+2. **Purpose-Driven Interaction:** Create purposeful spaces that encourage meaningful interactions and connections.
+3. **Blockchain Integration:** Utilize blockchain for secure and transparent processes within the platform.
+
+**Intended Impact and Benefits:**
+Evolvify seeks to deliver:
+- A metaverse environment that supports users in their journey of personal evolution.
+- Purpose-driven spaces that facilitate genuine connections among users.
+- Utilization of blockchain for enhanced security and transparency in platform operations.
+
+**Key Features:**
+
+1. **Purpose-Driven Interactive Space:**
+   - Designated spaces within the platform encourage interactions aligned with personal and collective development.
+   - Activities within these spaces are crafted to support users' growth and connections.
+
+2. **Blockchain Integration:**
+   - Implement blockchain technology to secure user authentication, data storage, and transactions.
+   - Utilize smart contracts for ensuring transparent and trust-oriented interactions within the metaverse.
+
+
+
+**How It Works:**
+Evolvify offers a practical metaverse experience centered around personal evolution. Users engage through evolving avatars, purpose-driven spaces, and blockchain integration for a secure and meaningful metaverse encounter.
+
+Feel free to provide any additional details or make adjustments based on your preferences! 
+
+
+
+
+
+
 
 **Sample**:
 
@@ -56,24 +88,39 @@ Navigating the vast, intricate world of cryptocurrency can be daunting. Investor
 
 Please enumerate the technologies, tools, and frameworks that you're planning to utilize in the development and implementation of your project. This should include both the front-end and back-end technologies, databases, cloud services, libraries, and other relevant software components.
 
-**Sample:**
 
-- Solidity
+- **Metaverse Development:** Use [Unity](https://investors.unity.com/news/news-details/2023/Unity-Introduces-New-Asset-Store-Category-for-Decentralized-Technologies-in-Gaming/default.aspx) or [Godot](https://docs.godotengine.org/en/stable/) for practical metaverse development.
+- **Blockchain Integration:** Explore [Chainsafe SDK](https://docs.gaming.chainsafe.io/), [Thirdweb SDK](https://thirdweb.com/) or other SDKs are more suitable for seamless integration.
+- **SDK:** Other related tools updated at Unity‘s Verified Solutions for [Decentralization](https://assetstore.unity.com/decentralization-hub), [3D](https://assetstore.unity.com/3d) and more.
+
+**Potential Involved Languages and Tools:**
+- C#
+- Web3.js
 - React.js
-- EtherJs Library
 - Node.js
+- Solidity
 - Ethereum Blockchain
+- Blender
+-Nomad Sculpt
+-Gravity Sketch
+- WebGL/VR/AR development tools (depending on situations)
+- Smart contract development tools
 
 ### **Milestone Breakdown**
 
-Outline the key milestones for your project and the associated timelines.
+- Pre-development -
+❤️ Explore possibilities of blockchain for XR
+❤️ Balance meaningful and loving humanistic missions with product-market fit in the blue market
+❤️ Go-to-market is easy with the easy recreation of irreplaceable business models in the future
 
-**Sample:**
+- Development -
+❤️ 3D asset creation
+❤️ Blockchain - comparing and exploring suitability
+❤️ Creation in-game engine integration, the XR scene, and blockchain
 
-1. **Project Kick-off (Days 1-2):** Team formation and project ideation.
-2. **Design Phase (Days 3-4):** Create wireframes and finalize design concepts.
-3. **Development Sprint (Days 5-6):** Implement core functionalities (e.g., user registration, portfolio management).
-
+1. **Project Kick-off (Days 1-2):** Already communicated with the others, having project ideation. Welcoming collaborations but possibly no teammates.
+2. **Design Phase (Days 3-4):** Experiment, experience and explore with the blockchain's possibilites to see what suits the project the best.
+3. **Development Sprint (Days 5-6):** Create the features and integration. Iterate and check how the 3D assets are suitable to the chosen blockchain integration.
 ---
 
 ## **Team Details Section**
