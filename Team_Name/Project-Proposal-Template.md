@@ -1,21 +1,4 @@
 
-## **_A Note to Builders_**
-
-_As I start working on your project proposals, remember that following these guidelines is mandatory, not optional. Ignoring them means your proposal will be automatically rejected. These rules are here to make sure our work is innovative, ethical, and legal. Please pay close attention to each point:_
-
-1. **Originality**: Our project must be entirely our own creation, showcasing our unique ideas and insights.
-2. **Follow the Rules**: Stick to the given submission format and guidelines strictly. Any deviation will lead to rejection.
-3. **Be Honest**: Present only authentic work and provide accurate information. Dishonesty will result in immediate disqualification.
-4. **No Plagiarism**: Our content must be original. Credit all external sources or inspirations properly.
-5. **Clear Goals**: Define the project objectives and outcomes clearly. Vague proposals won't be considered.
-6. **Practicality**: Ensure the project is realistic and can be practically implemented. Impractical ideas won't make it through.
-7. **Ethics First**: The project must adhere to ethical standards, respecting privacy and data protection.
-8. **Legal Compliance**: Abide by all relevant laws, copyright rules, and intellectual property rights. Non-compliance is not an option.
-
-
-_I ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
-
----
 # Proposal
 
 ## **Project Details Section**
@@ -86,12 +69,9 @@ Navigating the vast, intricate world of cryptocurrency can be daunting. Investor
 
 ### **Technology Stack**
 
-Please enumerate the technologies, tools, and frameworks that you're planning to utilize in the development and implementation of your project. This should include both the front-end and back-end technologies, databases, cloud services, libraries, and other relevant software components.
-
-
-- **Metaverse Development:** Use [Unity](https://investors.unity.com/news/news-details/2023/Unity-Introduces-New-Asset-Store-Category-for-Decentralized-Technologies-in-Gaming/default.aspx) or [Godot](https://docs.godotengine.org/en/stable/) for practical metaverse development.
-- **Blockchain Integration:** Explore [Chainsafe SDK](https://docs.gaming.chainsafe.io/), [Thirdweb SDK](https://thirdweb.com/) or other SDKs are more suitable for seamless integration.
-- **SDK:** Other related tools updated at Unity‘s Verified Solutions for [Decentralization](https://assetstore.unity.com/decentralization-hub), [3D](https://assetstore.unity.com/3d) and more.
+❤️ **Metaverse Development:** Use [Unity](https://investors.unity.com/news/news-details/2023/Unity-Introduces-New-Asset-Store-Category-for-Decentralized-Technologies-in-Gaming/default.aspx) or [Godot](https://docs.godotengine.org/en/stable/) for practical metaverse development.
+❤️ **Blockchain Integration:** Explore [Chainsafe SDK](https://docs.gaming.chainsafe.io/), [Thirdweb SDK](https://thirdweb.com/) or other SDKs are more suitable for seamless integration.
+❤️ **SDK:** Other related tools updated at Unity‘s Verified Solutions for [Decentralization](https://assetstore.unity.com/decentralization-hub), [3D](https://assetstore.unity.com/3d) and more.
 
 **Potential Involved Languages and Tools:**
 - C#
@@ -127,23 +107,14 @@ Please enumerate the technologies, tools, and frameworks that you're planning to
 
 ### **Teammates**
 
-Please ensure to add the names of each member of your team along with their respective GitHub profiles to this list.
-
-**Sample:**
-
-- Alice Johnson ([GitHub Profile](https://github.com/alicejohnson))
-- Bob Smith ([GitHub Profile](https://github.com/bobsmith))
-- Charlie Brown ([GitHub Profile](https://github.com/charliebrown))
+❤️ Cliona Chee Pui Khei ([GitHub Profile](https://github.com/clionache))
 
 ### **Individual Contribution Breakdown**
 
-Please ensure to clearly define the responsibilities and tasks of each team member. This includes detailing their specific role within the project, outlining their duties, and setting clear expectations for their contribution.
-
-**Sample:**
-
-- Alice Johnson: Smart Contract Development
-- Bob Smith: Frontend Design and Implementation
-- Charlie Brown: Backend Development
+❤️Cliona Chee (for basically everything)
+- Smart Contract and Backend Development
+- 3D asset / gamified / Extended Reality (XR) implementation
+- SDK integration
 
 ---
 
@@ -152,8 +123,30 @@ Please ensure to clearly define the responsibilities and tasks of each team memb
 **Answer the following questions regarding the future prospects and scaling of your project.**
 
 1. What are the potential future features or enhancements you envision for your project?
-   - **Sample**: We plan to integrate a real-time news feed for cryptocurrencies.
+❤️ AI to get social data to personalize the experiences uniquely made for different people for what's most suitable for them.
 2. How do you plan to scale the project if there's an increase in user activity or data volume?
-   - **Sample**: We'll implement load balancing and optimize database queries.
-3. Provide a concise one-line summary of your proposal and its objectives.
-   - **Sample**: Our project, CryptoTracker, aims to revolutionize cryptocurrency management with a decentralized platform for secure asset tracking and real-time market analysis.
+❤️ Apply to a pre-seed and see program, then expand the team to have more blockchain experts while I focus on biomedical engineering, XR world creating features for the metaverse to be used for the people to have personalized explorations that could also be futher researched if a laboratory could be built.
+❤️ To address short-term scalability challenges due to increased user activity and data volume, employ optimized backend solutions, consider cloud-based scaling options, and explore partnerships for technical support.
+❤️ To ensure it grows with our pace, we optimize existing resources and leverage cloud solutions for seamless scalability as user engagement grows. Foster community involvement to enhance user-generated content, ensuring a balanced and sustainable scaling approach within the blockchain metaverse.
+
+❤️**Evolvify** is an exploration centered on personal evolution, fostering balanced-driven interactions between mind, body, and soul with practicality through blockchain integration in a unique metaverse experience amplyfying love.
+
+
+## **_A Note to Self_**
+
+_As I start working on your project proposals, remember that following these guidelines is mandatory, not optional. Ignoring them means your proposal will be automatically rejected. These rules are here to make sure our work is innovative, ethical, and legal. Please pay close attention to each point:_
+
+1. **Originality**: Our project must be entirely our own creation, showcasing our unique ideas and insights.
+2. **Follow the Rules**: Stick to the given submission format and guidelines strictly. Any deviation will lead to rejection.
+3. **Be Honest**: Present only authentic work and provide accurate information. Dishonesty will result in immediate disqualification.
+4. **No Plagiarism**: Our content must be original. Credit all external sources or inspirations properly.
+5. **Clear Goals**: Define the project objectives and outcomes clearly. Vague proposals won't be considered.
+6. **Practicality**: Ensure the project is realistic and can be practically implemented. Impractical ideas won't make it through.
+7. **Ethics First**: The project must adhere to ethical standards, respecting privacy and data protection.
+8. **Legal Compliance**: Abide by all relevant laws, copyright rules, and intellectual property rights. Non-compliance is not an option.
+
+I may use free and open source tools and get inspired by the other projects to be as reference materials but never as an entire thing the same a.k.a. plagiarism.
+
+_I ensure your proposal strictly adheres to these guidelines to be considered for evaluation._
+
+---
