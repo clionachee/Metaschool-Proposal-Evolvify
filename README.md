@@ -1,5 +1,5 @@
-### **Project Name** Evolvify
-### **Team Name** Top Love Tech
+### **Project Name**:  Evolvify
+### **Team Name**: Top Love Tech
 
 # Proposal
 
